@@ -1,8 +1,6 @@
 # phishing-email-analysis
 Cyber Security Internship Task 2 - Analysis of a Phishing Email Sample
 
-# Phishing Email Analysis
-
 ## Objective
 
 To identify phishing characteristics in a suspicious email sample.
